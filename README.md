@@ -1,6 +1,29 @@
-# rynek-pracy-2030-eu
-Szanse Polaków na rynku pracy do 2030 roku - Analiza rynku pracy i sytuacji geopolitycznej w Europie
+# Szanse Polaków na rynku pracy do 2030 roku
 
+Analiza rynku pracy i sytuacji geopolitycznej w Europie
++ PracaPrzyszłości
++ Technologia
++ RynekPracy
++ Automatyzacja
++ Innowacje
+
+## Badanie
+
+### 🚀 Polska na fali przyszłości pracy!
+🌟 37% Polaków patrzy na zmiany w pracy z entuzjazmem, gotowych na nowe wyzwania i sukcesy. Choć 40% odczuwa niepokój, przyszłość rynku pracy widziana jest przez naszych krajanów w znacznie bardziej optymistycznych barwach niż na świecie, gdzie 50% jest pełnych nadziei, a 33% zaniepokojonych. 
+
+### Czy technologia to zagrożenie, czy szansa? 
+57% Polaków jest przekonanych, że otwiera ona więcej drzwi niż ich zamyka. Automatyzacja budzi obawy co do miejsc pracy u 2/3 z nas, ale 45% nie boi się o własną karierę zawodową. To znakomity wynik w porównaniu z globalnymi trendami! 
+
+### 🛠️ Wiara w nieustający rozwój stoi po naszej stronie
+53% pracowników w Polsce nie obawia się, że technologia zdezaktualizuje ich zawód w ciągu najbliższych 5 lat, a 52% spodziewa się, że zmiany technologiczne będą miały pozytywny wpływ na ich przyszłość zawodową. 
+
+### 🔍 Gdzie leży klucz do przyszłego rynku pracy? 
+51% Polaków wskazuje na szybki postęp technologiczny, dalej pojawia się zmiana preferencji pracowników (49%), a także zmiany demograficzne (43%) i kwestie związane ze środowiskiem (42%). 
+
+
+
+### W jakim stopniu zgadzasz się lub nie zgadzasz z następującymi stwierdzeniami?
 ![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/80122177-5e5c-4b78-b8af-8cc5a476bdb9)
 + [Przyszłość rynku pracy - obawy i nadzieje pracowników](https://www.pwc.pl/pl/publikacje/przyszlosc-rynku-pracy-polska-perspektywa-badanie-2021.html)
 
