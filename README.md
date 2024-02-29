@@ -1,3 +1,5 @@
+![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/47e1ea32-137d-4c45-9300-3564b46a3282)
+
 # Szanse Polaków na rynku pracy do 2030 r.
 
 Analiza rynku pracy i sytuacji geopolitycznej w Europie
