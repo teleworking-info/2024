@@ -72,3 +72,9 @@ Analiza wskazuje, że szanse Polaków na rynku pracy do 2030 roku będą kształ
 - Zapewnienie stabilnego środowiska politycznego i prawno-gospodarczego zachęcającego do inwestycji.
 
 
+
+## Tom Sapletta
+
+Autor, będący na co dzień DevOps'em i zaangażowanym ewangelistą hypermodularyzacji, łączy doświadczenie w programowaniu poprzez research i wdrażanie nowatorskich rozwiązań. 
+Zdobyte umiejętności analityczne i duże doświadczenie w branży pozwalają mu tworzyć treści, pozatechniczne jak powyższy raport.
+
