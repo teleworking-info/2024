@@ -1,4 +1,4 @@
-# Szanse Polaków na rynku pracy do 2030 roku
+# Szanse Polaków na rynku pracy do 2030 r.
 
 Analiza rynku pracy i sytuacji geopolitycznej w Europie
 + PracaPrzyszłości
