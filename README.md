@@ -37,27 +37,14 @@ Analiza szans Polaków na rynku pracy w kontekście zmian gospodarczych, rosnąc
 
 W poszukiwaniu wydajności i redukcji kosztów, firmy stawiają na automatyzację procesów produkcyjnych oraz usług. Oznacza to przesunięcie zapotrzebowania na siłę roboczą od pozycji wymagających niskich kwalifikacji, do tych, które potrzebują zaawansowanej wiedzy technologicznej i umiejętności adaptacyjnych.
 
-```mermaid
-flowchart LR
-    A[Automatyzacja] --> B{Zmiana na rynku pracy}
-    B --> C[Redukcja prac fizycznych]
-    B --> D[Wzrost zapotrzebowania na specjalistów IT]
-    D --> E[Programiści]
-    D --> F[Analitycy danych]
-    D --> G[Inżynierowie AI]
-```
+![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/8beb5f26-b40c-4a00-bd2c-df2dba573993)
+
 
 ### Demografia
 
 Starzenie się społeczeństwa europejskiego będzie miało bezpośredni wpływ na rynek pracy. Spadek liczby ludności w wieku produkcyjnym oraz rosnąca liczba emerytów zwiększą zapotrzebowanie na pracowników w sektorze opieki zdrowotnej.
 
-```mermaid
-flowchart LR
-    A[Demografia] --> B[Zmniejszenie ludności w wieku produkcyjnym]
-    A --> C[Zwiększenie liczby seniorów]
-    B --> D[Spadek dostępnych pracowników]
-    C --> E[Wzrost zapotrzebowania na sektor opieki zdrowotnej]
-```
+[![](https://mermaid.ink/img/pako:eNpFkD1uwzAMha9CaE4u4KFAE3fr1AwFYmdgJLqWZYmCLEOwgxwkyDF6hKb3qmq4KBf-4HsPJC9CsiJRiKbnJFsMEV7fagc5nquSLH8EbDSeYLt9gl11tE5TN8yUE_Sjcvx9lxoSJE1mBB9YjUZOnZvsaXVZlPvqmPTjZv6UWs7nCYbccPj6TCu7W9iyOnhUZEDxEB837ybZZmeUnJw2__R-oV-q9zlkEGb0HMNMZ07oNILD7G8iB2Cfl9Mwq8CJo6NuNRAbYSlY1Crff_md1SK2ZKkWRS4VBlOL2l0zh2Pkw-SkKBrsB9qI0SuMVGrM_7Hr9PoDBDh1tQ?type=png)](https://mermaid.live/edit#pako:eNpFkD1uwzAMha9CaE4u4KFAE3fr1AwFYmdgJLqWZYmCLEOwgxwkyDF6hKb3qmq4KBf-4HsPJC9CsiJRiKbnJFsMEV7fagc5nquSLH8EbDSeYLt9gl11tE5TN8yUE_Sjcvx9lxoSJE1mBB9YjUZOnZvsaXVZlPvqmPTjZv6UWs7nCYbccPj6TCu7W9iyOnhUZEDxEB837ybZZmeUnJw2__R-oV-q9zlkEGb0HMNMZ07oNILD7G8iB2Cfl9Mwq8CJo6NuNRAbYSlY1Crff_md1SK2ZKkWRS4VBlOL2l0zh2Pkw-SkKBrsB9qI0SuMVGrM_7Hr9PoDBDh1tQ)
 
 ## Sytuacja Geopolityczna w Europie
 
