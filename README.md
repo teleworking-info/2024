@@ -87,7 +87,7 @@ Analiza wskazuje, że szanse Polaków na rynku pracy do 2030 roku będą kształ
 ## Tom Sapletta
 
 Autor, będący na co dzień DevOps'em i zaangażowanym ewangelistą hipermodularyzacji, łączy doświadczenie w programowaniu poprzez research i wdrażanie nowatorskich rozwiązań. 
-Zdobyte umiejętności analityczne i duże doświadczenie w branży pozwalają mu tworzyć treści, pozatechniczne jak powyższy raport.
+Zdobyte umiejętności analityczne i duże doświadczenie w branży pozwalają mu tworzyć treści pozatechniczne, jak powyższy raport.
 
 + [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
 + [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
