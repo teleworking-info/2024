@@ -1,6 +1,8 @@
 # rynek-pracy-2030-eu
 Szanse Polaków na rynku pracy do 2030 roku - Analiza rynku pracy i sytuacji geopolitycznej w Europie
 
+![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/80122177-5e5c-4b78-b8af-8cc5a476bdb9)
++ [Przyszłość rynku pracy - obawy i nadzieje pracowników](https://www.pwc.pl/pl/publikacje/przyszlosc-rynku-pracy-polska-perspektywa-badanie-2021.html)
 
 # Szanse Polaków na rynku pracy do 2030 roku - Analiza rynku pracy i sytuacji geopolitycznej w Europie
 
@@ -65,3 +67,5 @@ Analiza wskazuje, że szanse Polaków na rynku pracy do 2030 roku będą kształ
 - Inwestycje w edukację i przekwalifikowanie pracowników, szczególnie w kierunku technologii informacyjnych i opieki zdrowotnej.
 - Promowanie innowacji i wsparcie dla sektora badań i rozwoju.
 - Zapewnienie stabilnego środowiska politycznego i prawno-gospodarczego zachęcającego do inwestycji.
+
+
