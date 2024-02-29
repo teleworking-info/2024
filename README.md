@@ -75,6 +75,10 @@ Analiza wskazuje, że szanse Polaków na rynku pracy do 2030 roku będą kształ
 
 ## Tom Sapletta
 
+![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/24abdad9-5aff-4834-95a0-d7215cc6e0bc)
+
 Autor, będący na co dzień DevOps'em i zaangażowanym ewangelistą hypermodularyzacji, łączy doświadczenie w programowaniu poprzez research i wdrażanie nowatorskich rozwiązań. 
 Zdobyte umiejętności analityczne i duże doświadczenie w branży pozwalają mu tworzyć treści, pozatechniczne jak powyższy raport.
 
++ [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
++ [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
