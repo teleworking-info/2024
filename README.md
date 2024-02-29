@@ -24,7 +24,10 @@ Analiza rynku pracy i sytuacji geopolitycznej w Europie
 
 
 ### W jakim stopniu zgadzasz się lub nie zgadzasz z następującymi stwierdzeniami?
-![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/80122177-5e5c-4b78-b8af-8cc5a476bdb9)
+
+![obraz](https://github.com/tom-sapletta-com/rynek-pracy-2030-eu/assets/5669657/bb12d995-685b-4e39-bbf7-8c790557177f)
+
+
 + [Przyszłość rynku pracy - obawy i nadzieje pracowników](https://www.pwc.pl/pl/publikacje/przyszlosc-rynku-pracy-polska-perspektywa-badanie-2021.html)
 
 # Szanse Polaków na rynku pracy do 2030 roku - Analiza rynku pracy i sytuacji geopolitycznej w Europie
