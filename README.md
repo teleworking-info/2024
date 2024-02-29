@@ -52,23 +52,16 @@ Starzenie się społeczeństwa europejskiego będzie miało bezpośredni wpływ 
 
 Zjawisko migracji zarobkowej, zarówno wewnątrz kraju, jak i transgranicznej, będzie miało znaczący wpływ na lokalne rynki pracy. Migranci mogą łagodzić problem niedoboru siły roboczej w niektórych sektorach, lecz również zwiększać konkurencję na rynku pracy.
 
-```mermaid
-graph TD
-    A[Migracja] --> B{Wpływ na rynek pracy w Polsce}
-    B --> C[Łagodzi niedobór siły roboczej]
-    B --> D[Zwiększa konkurencję]
-```
+[![](https://mermaid.ink/img/pako:eNpNj0EKwjAQRa8yzFov0IVg7VYQFASbLsZk1DQ2KWlLaUsXegvP4RHUexl146yGP-_BnwGlU4wRHj2VJ9gkwkKYebrUIZE5ZTCdziAetuXr2rVgCXxn2UAZrh20sHLnSvL40-IvvEhfFzo61WuwmpXbP-4eKh188G7vZM959s8n6a7Vz5upegLjrGk8W5k_bxlOsGBfkFah4PBRBNYnLlhgFFZF3ggUdgwcNbVbd1ZiVPuGJ9iUimpONIUvCowOdK54fAPnBVKv?type=png)](https://mermaid.live/edit#pako:eNpNj0EKwjAQRa8yzFov0IVg7VYQFASbLsZk1DQ2KWlLaUsXegvP4RHUexl146yGP-_BnwGlU4wRHj2VJ9gkwkKYebrUIZE5ZTCdziAetuXr2rVgCXxn2UAZrh20sHLnSvL40-IvvEhfFzo61WuwmpXbP-4eKh188G7vZM959s8n6a7Vz5upegLjrGk8W5k_bxlOsGBfkFah4PBRBNYnLlhgFFZF3ggUdgwcNbVbd1ZiVPuGJ9iUimpONIUvCowOdK54fAPnBVKv)
+
 
 ### Stabilność polityczna i ekonomiczna
 
 Stabilność polityczna w regionie, w tym w Polsce, jest kluczowym czynnikiem przyciągającym inwestycje zagraniczne, stanowiąc podstawę dla tworzenia nowych miejsc pracy oraz zwiększania szans Polaków na rynku pracy.
 
-```mermaid
-flowchart LR
-    A[Stabilność polityczna] --> B[Wzrost inwestycji zagranicznych]
-    B --> C[Tworzenie nowych miejsc pracy]
-    A --> D[Zwiększenie szans na rynku pracy]
-```
+[![](https://mermaid.ink/img/pako:eNotzj1uwzAMBeCrEJyTC3gokDRjpyZAgFoZWJmpFVuUIckQpCBzz1D0Oum9qvxwIvA-Eu-M2nWMDR5Hl3RPPsLbuxKos2q3kT7NKO7v9_oNkxtNzLoIHWC5fIF1uy_ehQhGEoeanAwU-vIkpqKs-8PjzfquX9tdcr6wGAZxqcZgDZ-ChsmTzk-7uttN-5HM9WcIDx4KSQAh8FmG-elxgZa9JdPV7ufbtcLYs2WFTV078oNCJZfqaI5um0VjE_3MC5ynjiJvzK2rxeZIY-DLP1NJXK4?type=png)](https://mermaid.live/edit#pako:eNotzj1uwzAMBeCrEJyTC3gokDRjpyZAgFoZWJmpFVuUIckQpCBzz1D0Oum9qvxwIvA-Eu-M2nWMDR5Hl3RPPsLbuxKos2q3kT7NKO7v9_oNkxtNzLoIHWC5fIF1uy_ehQhGEoeanAwU-vIkpqKs-8PjzfquX9tdcr6wGAZxqcZgDZ-ChsmTzk-7uttN-5HM9WcIDx4KSQAh8FmG-elxgZa9JdPV7ufbtcLYs2WFTV078oNCJZfqaI5um0VjE_3MC5ynjiJvzK2rxeZIY-DLP1NJXK4)
+
+
 
 ## Wnioski
 
